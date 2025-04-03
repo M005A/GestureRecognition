@@ -1,7 +1,5 @@
 # GestureRecognition
 
-Here's the complete Markdown-formatted README for your GitHub repository:  
-
 # 🖐️ Real-Time Hand Gesture Recognition  
 
 This project implements a real-time hand gesture recognition system using machine learning and computer vision, enabling interactive feedback through live webcam input. The system is designed for efficient real-time processing and classification, displaying gesture results and accuracy on-screen.  
