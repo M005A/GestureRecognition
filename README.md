@@ -61,14 +61,4 @@ The model was trained using TensorFlow and Keras on a labeled dataset of hand ge
 ## 🎥 Live Gesture Recognition  
 
 The system captures live webcam input, classifies gestures in real-time, and displays the results with accuracy metrics.  
-
-## 💡 Future Improvements  
-
-- Enhance model accuracy with more training data.  
-- Implement more gesture variations.  
-- Optimize for edge devices with TensorFlow Lite.  
-
-## 🤝 Contributing  
-
-Feel free to fork this repository and submit pull requests!  
-```
+ 
