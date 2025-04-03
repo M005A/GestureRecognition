@@ -2,7 +2,6 @@
 
 Here's the complete Markdown-formatted README for your GitHub repository:  
 
-```markdown
 # 🖐️ Real-Time Hand Gesture Recognition  
 
 This project implements a real-time hand gesture recognition system using machine learning and computer vision, enabling interactive feedback through live webcam input. The system is designed for efficient real-time processing and classification, displaying gesture results and accuracy on-screen.  
@@ -17,7 +16,7 @@ This project implements a real-time hand gesture recognition system using machin
 
 ## 📁 Project Structure  
 
-```
+
 📂 Real-Time-Gesture-Recognition  
  ├── 📂 datasets               # Collected hand gesture images  
  ├── 📂 models                 # Trained ML models  
@@ -25,7 +24,7 @@ This project implements a real-time hand gesture recognition system using machin
  ├── 📂 scripts                # Python scripts for real-time processing  
  ├── 📄 requirements.txt        # Dependencies  
  ├── 📄 README.md               # Project documentation  
-```
+
 
 ## 🛠️ Installation  
 
